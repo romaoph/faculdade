@@ -2,14 +2,14 @@
 
 Repositório com as atividades e listas de exercícios desenvolvidas ao longo da graduação.
 
-## 🗂️ Disciplinas
+## 🗂️ Disciplinas / Listas
 
-| Pasta | Disciplina | Status |
+| Pasta | Descrição | Status |
 |---|---|---|
-| _(adicionar conforme for criando)_ | | |
+| [ListaJavaFaculdade](./ListaJavaFaculdade) | Listas de exercícios Java feitas ao longo dos períodos da faculdade | ✅ Ativo |
 
 ## 🛠️ Tecnologias
 - Java
 
 ## 📌 Sobre
-Reúne os trabalhos práticos realizados durante o curso, organizados por disciplina/semestre.
+Reúne os trabalhos práticos realizados durante o curso, organizados por disciplina/período, conforme forem sendo desenvolvidos.
